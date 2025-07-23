@@ -1,4 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Ammar!
+
+🎓 Diploma in Network Security @ German-Malaysian Institute    
+🔍 Currently exploring: Cloud, SDR, & PenTesting  
+📍 Malaysia
+
+---
+
+## 📂 Projects
+Here are some cool things I’ve worked on:
+- 🚨 [Fake BTS Detection System](https://github.com/yourusername/fake-bts-detector)
+- 📶 [Wireless Lab Notes & Tools](https://github.com/yourusername/wireless-lab)
+- 🛡 [Firewall & ACL Config (Cisco)](https://github.com/yourusername/firewall-acl-lab)
+
+---
+
+## 📈 GitHub Stats
+![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=public0x&show_icons=true&theme=tokyonight)
+
+---
+
+## ☕ Let’s Connect
+- 💼 [LinkedIn](www.linkedin.com/in/muhammad-ammar-adi-harrizam-a7304328b)
+- 📧 Email: muhdammar.work@gmail.com
 
 <!--
 **public0x/public0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
