@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ammar!
+# 👋 Hey, I'm public0x!
 
 🎓 Diploma in Network Security @ German-Malaysian Institute    
 🔍 Currently exploring: Cloud, SDR, & PenTesting  
