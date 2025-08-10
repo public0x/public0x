@@ -8,6 +8,7 @@
 
 ## 📂 Projects
 Here are some cool things I’ve worked on:
+- 🛜 [Wireless Network Intrusion Detection System (WNIDS)](https://github.com/public0x/wireless-network-ids)
 - 🚨 [Fake BTS Detection System](https://github.com/yourusername/fake-bts-detector)
 - 📶 [Wireless Lab Notes & Tools](https://github.com/yourusername/wireless-lab)
 - 🛡 [Firewall & ACL Config (Cisco)](https://github.com/yourusername/firewall-acl-lab)
