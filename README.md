@@ -23,7 +23,6 @@ Here are some cool things I’ve worked on:
 ## ☕ Let’s Connect
 - 💼 [LinkedIn](www.linkedin.com/in/muhammad-ammar-adi-harrizam-a7304328b)
 - 📧 Email: muhdammar.work@gmail.com
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="muhammad-ammar-adi-harrizam" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://my.linkedin.com/in/muhammad-ammar-adi-harrizam?trk=profile-badge">Muhammad Ammar Adi Harrizam</a></div>
               
 
 <!--
