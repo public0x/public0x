@@ -29,10 +29,10 @@
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=public0x&show_icons=true&theme=tokyonight&count_private=true" alt="Ammar's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=public0x&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=public0x&show_icons=true&theme=transparent&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" alt="Ammar's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=public0x&layout=compact&theme=transparent&title_color=38bdf8&text_color=ffffff" alt="Top Langs" width="40%" />
 </p>
 
 ---
