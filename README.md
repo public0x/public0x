@@ -1,41 +1,46 @@
-# 👋 Hey, I'm public0x!
+# 👨‍💻 @public0x | Muhammad Ammar
 
-🎓 Diploma in Network Security @ German-Malaysian Institute    
-🔍 Currently exploring: Cloud, SDR, & PenTesting  
-📍 Malaysia
-
----
-
-## 📂 Projects
-Here are some cool things I’ve worked on:
-- 🛜 [Wireless Network Intrusion Detection System (WNIDS)](https://github.com/public0x/wireless-network-ids)
-- 🚨 [Fake BTS Detection System](https://github.com/public0x/CELLSHIELD))
-- 📶 [Wireless Lab Notes & Tools](https://github.com/yourusername/wireless-lab)
-- 🛡 [Firewall & ACL Config (Cisco)](https://github.com/yourusername/firewall-acl-lab)
+### 🎓 Diploma in Network Security @ German-Malaysian Institute  
+**Cybersecurity Enthusiast | SDR Explorer | Cloud & PenTesting**
 
 ---
 
-## 📈 GitHub Stats
-![Ammar's GitHub stats](https://github-readme-stats.vercel.app/api?username=public0x&show_icons=true&theme=tokyonight)
+### 🛠️ My Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Networking** | ![Cisco](https://img.shields.io/badge/cisco-%23040306.svg?style=flat&logo=cisco&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+| **Security** | ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-FF4400?style=flat&logo=metasploit&logoColor=white) ![SDR](https://img.shields.io/badge/SDR-Radio-orange) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
-## ☕ Let’s Connect
-- 💼 [LinkedIn](www.linkedin.com/in/muhammad-ammar-adi-harrizam-a7304328b)
-- 📧 Email: muhdammar.work@gmail.com
-              
+### 📂 Featured Projects
 
-<!--
-**public0x/public0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📡 [CELLSHIELD](https://github.com/public0x/CELLSHIELD)
+> **Fake BTS Detection System.** Detecting rogue cellular base stations using SDR techniques. A deep dive into mobile network security.
 
-Here are some ideas to get you started:
+#### 🛜 [Wireless Network IDS](https://github.com/public0x/wireless-network-ids)
+> A dedicated WNIDS designed to monitor and alert on suspicious traffic within wireless protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛡️ [Cisco Firewall & ACL Lab](https://github.com/yourusername/firewall-acl-lab)
+> Documentation and configurations for hardening enterprise-level network perimeters.
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=public0x&show_icons=true&theme=tokyonight&count_private=true" alt="Ammar's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=public0x&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/muhammad-ammar-adi-harrizam-a7304328b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ammar" height="30" width="40" /></a>
+<a href="mailto:muhdammar.work@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
